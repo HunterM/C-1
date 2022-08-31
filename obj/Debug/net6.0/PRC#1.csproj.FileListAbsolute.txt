@@ -1,0 +1,15 @@
+D:\Programming\PRC#\PRC#1\bin\Debug\net6.0\PRC#1.exe
+D:\Programming\PRC#\PRC#1\bin\Debug\net6.0\PRC#1.deps.json
+D:\Programming\PRC#\PRC#1\bin\Debug\net6.0\PRC#1.runtimeconfig.json
+D:\Programming\PRC#\PRC#1\bin\Debug\net6.0\PRC#1.dll
+D:\Programming\PRC#\PRC#1\bin\Debug\net6.0\PRC#1.pdb
+D:\Programming\PRC#\PRC#1\obj\Debug\net6.0\PRC#1.csproj.AssemblyReference.cache
+D:\Programming\PRC#\PRC#1\obj\Debug\net6.0\PRC#1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\PRC#\PRC#1\obj\Debug\net6.0\PRC#1.AssemblyInfoInputs.cache
+D:\Programming\PRC#\PRC#1\obj\Debug\net6.0\PRC#1.AssemblyInfo.cs
+D:\Programming\PRC#\PRC#1\obj\Debug\net6.0\PRC#1.csproj.CoreCompileInputs.cache
+D:\Programming\PRC#\PRC#1\obj\Debug\net6.0\PRC#1.dll
+D:\Programming\PRC#\PRC#1\obj\Debug\net6.0\refint\PRC#1.dll
+D:\Programming\PRC#\PRC#1\obj\Debug\net6.0\PRC#1.pdb
+D:\Programming\PRC#\PRC#1\obj\Debug\net6.0\PRC#1.genruntimeconfig.cache
+D:\Programming\PRC#\PRC#1\obj\Debug\net6.0\ref\PRC#1.dll
